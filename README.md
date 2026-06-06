@@ -8,7 +8,7 @@ This project was created to practice Python libraries, user input handling, imag
 
 ## 📸 Preview
 
-![QR Code Preview](screenshots/preview.png)
+![QR Code Preview](github_qr.png)
 
 > Replace the image above with your own screenshot after uploading it.
 
