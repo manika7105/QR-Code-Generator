@@ -10,8 +10,6 @@ This project was created to practice Python libraries, user input handling, imag
 
 ![QR Code Preview](github_qr.png)
 
-> Replace the image above with your own screenshot after uploading it.
-
 ---
 
 ## ✨ Features
